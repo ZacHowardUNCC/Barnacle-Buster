@@ -6,7 +6,7 @@
 --- Game Overview ---
 
 - Genre: 2D Casual / Simulation
--- Core Loop --
+- Core Gameplay Loop:
   - Select a job from the **Dock Hub**
   - Remove barnacles using your tools (pick and brush)
   - Earn coins based on **type** and **number** of barnacles cleared
