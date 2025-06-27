@@ -1,0 +1,32 @@
+# .gitignore for Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# OS generated
+.DS_Store
+*.swp
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.sdf
+*.db
+*.opendb
+
+# Rider
+.idea/
+*.sln.iml
+
+# Crash logs
+sysinfo.txt

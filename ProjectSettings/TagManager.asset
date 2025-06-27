@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Background
+  - Barnacles
+  - Barnacle Spawn
+  - Tool Cursor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Small Barnacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4225920179
+    locked: 0
+  - name: Small Barnacles
+    uniqueID: 2655586227
+    locked: 0
+  - name: Barnacles
+    uniqueID: 2358237209
+    locked: 0
+  - name: Cursor
+    uniqueID: 2432103585
+    locked: 0
+  m_RenderingLayers:
+  - Default
